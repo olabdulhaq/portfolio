@@ -27,11 +27,11 @@ a {
 
 .header {
     background-image: linear-gradient(to right bottom,
-        rgba(1, 1, 29, 0.9), 
-        rgba(10, 1, 27, 0.9)), 
+        rgba(1, 1, 29, 0.8), 
+        rgba(10, 1, 27, 0.8)), 
         url("img/bck7.jpg");
     background-size: cover;
-    opacity: .7;
+    opacity: .9;
     height: 100vh;
     position: relative;
 }
